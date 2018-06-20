@@ -1,14 +1,14 @@
-/*Removes any prexisting padding or marginal space from the html and body elements.*/
+/*Elimina cualquier relleno preexistente o espacio marginal de los elementos html y del body.*/
 
 html body {
 	margin: 0;
 	padding: 0;
-	/*Remove this background-color! It is here to make sure that the css and html are linked.*/
+	/*Quita este color de fondo! Está aquí para asegurarse de que el css y el html están enlazados.*/
 	background-color: #5abaf3;
 	text-align: center;
 }
 
-/*Remove this h1 Rule! */
+/* Elimine esta regla h1! */
 
 h1 {
 	text-align: center;
